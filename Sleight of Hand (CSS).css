@@ -1,0 +1,123 @@
+.nodisplay {
+	display: none;
+}
+
+.infocus {
+	display: block;
+}
+
+.rashanodisplay {
+	display: none;
+}
+
+.rashainfocus {
+	display: block;
+}
+
+.archetypeTable, td, th {
+	border: solid 1px black;
+	text-align: center;
+} 
+
+.crewName {
+	font-weight: bold;
+	font-size: 135%
+}
+
+.tableInTable {
+	text-align: center;
+	padding-left: 25%;
+}
+
+.aTarget {
+	background-color: #99dd55;
+	border: 1px solid black;
+}
+
+.notATarget {
+	background-color: #FFFFFF;
+	border: 1px solid black;
+}
+
+.gotSkills {
+	background-color: #99dd55;
+	border: 1px solid black;
+}
+
+.noSkill {
+	background-color: #FFFFFF;
+	border: 1px solid black;
+}
+
+.rashaGotSkills {
+	background-color: #99dd55;
+	border: 1px solid black;
+}
+
+.rahsaGotNoSkill {
+	background-color: #FFFFFF;
+	border: 1px solid black;
+}
+
+.saaTarget {
+	background-color: #FEDC56;
+}
+
+.freeSkill {
+	background-color: #FEDC56;
+	border: 1px solid black;
+}
+
+.notCrew {
+	background-color: #FFFFFF;
+	border: 1px solid black;
+}
+
+.partOfTheCrew {
+	background-color: #99dd55;
+	border: 1px solid black;
+}
+
+.noContact {
+	background-color: #FFFFFF;
+	border: 1px solid black;
+}
+
+.closeContact {
+	background-color: #99dd55;
+	border: 1px solid black;
+}
+
+.unequipped {
+	background-color: #FFFFFF;
+	border: 1px solid black;
+}
+
+.equipped {
+	background-color: #99dd55;
+	border: 1px solid black;
+}
+
+#skillsPoints {
+	position: fixed;
+	color: red;
+	right: 220px;
+	bottom: 30px;
+	font-weight: bold;
+}
+
+#crewPoints {
+	position: fixed;
+	color: red;
+	right: 120px;
+	bottom: 30px;
+	font-weight: bold;
+}
+
+#contactsPoints {
+	position: fixed;
+	color: red;
+	right: 20px;
+    bottom: 30px; 
+	font-weight: bold;
+}
