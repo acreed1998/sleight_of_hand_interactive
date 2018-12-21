@@ -1,3 +1,14 @@
+body {
+	height: 100%;
+	background-image: url("sleightOfHandImages/background.png");
+	width: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .nodisplay {
 	display: none;
 }
@@ -96,6 +107,19 @@
 .equipped {
 	background-color: #99dd55;
 	border: 1px solid black;
+}
+
+.bg { 
+  /* The image used */
+  background-image: url("sleightOfHandImages/background.png");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #skillsPoints {
