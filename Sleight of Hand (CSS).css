@@ -128,6 +128,11 @@ body {
 	right: 220px;
 	bottom: 30px;
 	font-weight: bold;
+	background-color:#4B4B4B;
+	padding: 0.5%;
+	border: 1%;
+	border-radius: 50%;
+	border-style: outset;
 }
 
 #crewPoints {
@@ -136,6 +141,11 @@ body {
 	right: 120px;
 	bottom: 30px;
 	font-weight: bold;
+	background-color:#4B4B4B;
+	padding: 0.5%;
+	border: 1%;
+	border-radius: 50%;
+	border-style: outset;
 }
 
 #contactsPoints {
@@ -144,4 +154,9 @@ body {
 	right: 20px;
     bottom: 30px; 
 	font-weight: bold;
+	background-color:#4B4B4B;
+	padding: 0.5%;
+	border: 1%;
+	border-radius: 50%;
+	border-style: outset;
 }
